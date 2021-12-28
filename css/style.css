@@ -10,8 +10,8 @@
 /******  Basic styles  ******/
 
 * {
-	box-sizing: border-box;
 	font-family: 'Vujahday Script', cursive;
+	box-sizing: border-box;
 }
 
 h1 {
@@ -20,6 +20,7 @@ h1 {
 }
 
 p {
+	font-family: 'Lora', serif;
 	text-align: center;
 	margin: 0;
 }
